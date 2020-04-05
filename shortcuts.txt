@@ -1,0 +1,4 @@
+#202004以降の内容はメモに記載し、gitで管理してみる
+##git
+- githubに新規リポジトリ作成＆ローカルリポジトリをpush
+    - https://qiita.com/sodaihirai/items/caf8d39d314fa53db4db
