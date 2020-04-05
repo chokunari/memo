@@ -1,0 +1,18 @@
+#コマンドメモ
+##VSCODE
+- VSCODEでターミナル起動
+    - control + shift　+　`
+
+##git
+- ローカルリポジトリの初期化
+    - git init
+- インデックスにファイルを追加（更新対象インデックスにファイルを追加する。　-A は全て選択。）
+    - git add -A
+- 変更を反映（コミット）
+    - git commit -m "コメント"
+- githubで新規リポジトリ作成
+    - https://qiita.com/sodaihirai/items/caf8d39d314fa53db4db
+- githubのリモートリポジトリ情報をローカルリポジトリに追加
+    - git remote add origin [リモートリポジトリのURL]
+- ローカルリポジトリの変更をリモートリポジトリに反映
+    - git push origin master
