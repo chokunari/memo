@@ -17,7 +17,7 @@
 - githubのリモートリポジトリ情報をローカルリポジトリに追加
     - git remote add origin [リモートリポジトリのURL]
 - ローカルリポジトリの変更をリモートリポジトリに反映
-    - 
+    - git push origin master
     
 # お勉強参考URL
 - Auth0をReact＋Expressのアプリケーションで実装する（公式ブログ）
