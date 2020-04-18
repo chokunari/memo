@@ -2,6 +2,8 @@
 ## VSCODE
 - VSCODEでターミナル起動
     - control + shift　+　`
+- 置換
+    - option + command + f
 
 ## git
 - ローカルリポジトリの初期化
@@ -15,4 +17,8 @@
 - githubのリモートリポジトリ情報をローカルリポジトリに追加
     - git remote add origin [リモートリポジトリのURL]
 - ローカルリポジトリの変更をリモートリポジトリに反映
-    - git push origin master
+    - 
+    
+# お勉強参考URL
+- Auth0をReact＋Expressのアプリケーションで実装する（公式ブログ）
+　　- https://auth0.com/blog/jp-react-tutorial-building-and-securing-your-first-app/#React----------------------------------
