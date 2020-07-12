@@ -6,6 +6,8 @@
     - option + command + f
 - 複数行まとめて処理
     - option + command + カーソル
+- コード自動整形
+    - 範囲指定後　command + k →　command + f
 
 ## git
 - ローカルリポジトリの初期化
@@ -20,6 +22,19 @@
     - git remote add origin [リモートリポジトリのURL]
 - ローカルリポジトリの変更をリモートリポジトリに反映
     - git push origin master
+
+## Docker
+- Docker image作成
+    - docker commit コンテナID リポジトリ名:タグ
+    - `docker commit 10c309d97383 chokunari/diveworks-front:v_0.2`
+
+- Docker imageをDockerHubにアップロード
+    - docker push リポジトリ名:タグ
+    - `docker push chokunari/diveworks-front:v_0.2`
+
+## GCP
+- GCP SDKインストール
+    - https://cloud.google.com/sdk/docs/quickstart-macos?hl=ja
 
 ## その他便利コマンド
 - jsonをcsvに変換したい。
