@@ -1,7 +1,7 @@
 # コマンドメモ
 ## VSCODE
 - VSCODEでターミナル起動
-    - `control + shift　+　``
+    - `control + shift　+　\``
 - 置換
     - `option + command + f`
 - 複数行まとめて処理
