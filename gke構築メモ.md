@@ -14,6 +14,12 @@
     - `docker push asia.gcr.io/nttd-platformtec/cn-horitan-app01-front`
 - マニフェスト適用
     - `kubectl apply -f manifest_deploy.yaml`
+- pod確認
+    - `kubectl get pods`
+- podのログ確認
+    - `kubectl describe pods cn-horitan-app01-front-pod-687b4fd6c5-wwtfv`
+- podのログ詳細確認
+    - `kubectl logs cn-horitan-app01-front-pod-687b4fd6c5-wwtfv`
 
 ## その他便利コマンド
 - プロセス確認
