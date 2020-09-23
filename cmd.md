@@ -47,6 +47,8 @@
     - `ps aux | grep hogehoge`
 - プロセスキル
     - `kill プロセスID`
+- grep
+    - `rep -lr hogehoge --include="*.html" /var/www/htm`
 
 # お勉強参考URL
 - Auth0をReact＋Expressのアプリケーションで実装する（公式ブログ）
