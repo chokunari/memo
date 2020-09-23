@@ -12,6 +12,8 @@
     - `docker tag chokunari/diveworksfront:v_0.2 asia.gcr.io/nttd-platformtec/cn-horitan-app01-front:front-v_0.2`
 - dockerイメージをpush
     - `docker push asia.gcr.io/nttd-platformtec/cn-horitan-app01-front`
+- マニフェスト適用
+    - `kubectl apply -f manifest_deploy.yaml`
 
 ## その他便利コマンド
 - プロセス確認
