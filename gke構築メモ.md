@@ -8,6 +8,10 @@
 ## cloud shell
 - dockerイメージ取得
     - `docker pull chokunari/diveworksfront:v_0.2`
+- タグづけ
+    - `docker tag chokunari/diveworksfront:v_0.2 asia.gcr.io/nttd-platformtec/cn-horitan-app01-front:front-v_0.2`
+- dockerイメージをpush
+    - `docker push asia.gcr.io/nttd-platformtec/cn-horitan-app01-front`
 
 ## その他便利コマンド
 - プロセス確認
