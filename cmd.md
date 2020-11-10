@@ -31,10 +31,14 @@
 - Docker imageをDockerHubにアップロード
     - docker push リポジトリ名:タグ
     - `docker push chokunari/diveworks-front:v_0.2`
+- Docker network作成
+    - `docker network create wtgnet`
 
 ## GCP
 - GCP SDKインストール
     - https://cloud.google.com/sdk/docs/quickstart-macos?hl=ja
+- storageへアップロード
+    - `gsutil cp $HOME/local_folder/file1.png gs://bucket-ca4/`
 
 ## その他便利コマンド
 - jsonをcsvに変換したい。
