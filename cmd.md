@@ -8,6 +8,9 @@
     - `option + command + カーソル`
 - コード自動整形
     - `範囲指定後　command + k →　command + f`
+### 困った時は
+    - remote containerで前のパスを見に行くためコンテナにリモートできてなさそう・・・？
+        - ファイル→開く→存在するパスを指定すれば開ける。
 
 ## git
 - ローカルリポジトリの初期化
@@ -69,3 +72,14 @@
         - https://www.apibank.jp/ApiBank/api?category_no=0
     - public-apis
         - https://github.com/public-apis/public-apis
+
+- アニメ関連のAPI
+    - trace.moe
+        - アニメ画像をアップロードすると、アニメ動画を検索しマッチしたアニメの情報（タイトルとか）を表示する。
+        - https://trace.moe/
+    - ShangriLa Anime API Server
+        - https://github.com/Project-ShangriLa/sora-playframework-scala
+
+- アニメ関連サービス
+    - アニリスト
+        - https://anilist.co/
