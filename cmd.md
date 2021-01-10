@@ -83,3 +83,6 @@
 - アニメ関連サービス
     - アニリスト
         - https://anilist.co/
+
+- CORSについて
+    - https://coliss.com/articles/build-websites/operation/work/cs-visualized-cors.html
