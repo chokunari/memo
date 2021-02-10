@@ -86,3 +86,15 @@
 
 - CORSについて
     - https://coliss.com/articles/build-websites/operation/work/cs-visualized-cors.html
+
+- ウェブサイトのサムネイルを作ってくれるサイト
+    - https://blinky.nemui.org/
+
+- useEffectの実行条件
+    - https://numb86-tech.hatenablog.com/entry/2019/10/23/121332
+
+- OGPについて（サムネイルの設定等）
+    - https://muku-corp.co.jp/884
+
+- OGPデータをjavascriptで取得する
+    - https://qiita.com/ksyunnnn/items/bfe2b9c568e97bb6b494
